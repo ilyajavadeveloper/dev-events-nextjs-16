@@ -51,19 +51,12 @@ export const events: EventItem[] = [
   {
     image: "/images/event6.png",
     title: "ETHGlobal Hackathon: Paris 2026",
-    slug: "ethglobal-paris-2026",
+    slug: "globalise-paris-2026",
     location: "Paris, France",
     date: "2026-07-10",
     time: "10:00 AM",
   },
-  {
-    image: "/images/events-full.png",
-    title: "Open Source Summit North America 2026",
-    slug: "oss-na-2026",
-    location: "Vancouver, Canada",
-    date: "2026-06-22",
-    time: "09:00 AM",
-  },
+
 ];
 
 export default events;
